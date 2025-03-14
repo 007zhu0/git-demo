@@ -11,6 +11,5 @@ hello zhuzhu! hello git!
 hello zhuzhu! hello git!
 hello zhuzhu! hello git!
 hello zhuzhu! hello git!
-hello zhuzhu! hello git!
-hello zhuzhu! hello git!
+hello zhuzhu! hello git! master test
 hello zhuzhu! hello git!
